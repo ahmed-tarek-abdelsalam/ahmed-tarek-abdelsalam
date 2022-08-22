@@ -1,8 +1,7 @@
 - 👋 Hello Everyone, This is @ahmedtarek1325
 - 👀 I’m interested in Data Science, ML, AI, Math and Problem solving
 - 👨‍🎓 I'm communication and Informatation engineering Student at Zewail City of Science and Technology
-- 🌱 I’m currently learning Bayesian network
-- 💞️ I’m looking to collaborate on RL projects
+- 💞️ I’m looking to collaborate on CV projects
 - 📫 How to reach me via mail ahmed.tarek1325@gmail.com
 
 <!---
