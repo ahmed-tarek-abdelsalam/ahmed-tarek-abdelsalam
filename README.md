@@ -15,7 +15,7 @@ I'd love to collaborate on meaningful projects, so don't hesitate to drop me a ð
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ahmed-tarek-abdelsalam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ahmed-tarek-abdelsalam/)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmed-tarek-abdelsalam&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedtarek1325&show_icons=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=ahmed-tarek-abdelsalam)  
 
