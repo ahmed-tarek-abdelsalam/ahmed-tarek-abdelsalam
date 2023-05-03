@@ -10,7 +10,7 @@ I'd love to collaborate on meaningful projects, so don't hesitate to drop me a �
 
 - 🌱 I’m currently learning NLP. 
 - 👯 I’m looking to collaborate on Projects related to Computer Vision, Optimization, or Building ML systems.  
-- 📫 How to reach me: ahmed.tarek1325@gmail.com 
+- 📫 How to reach me: ahm.abdelsalam0@gmail.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ahmed-tarek-abdelsalam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ahmed-tarek-abdelsalam/)  
